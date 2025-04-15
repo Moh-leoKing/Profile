@@ -1,98 +1,88 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<p align="center">
+  <img src="https://github.com/Moh-leoKing.png?size=150" width="150" style="border-radius: 50%;" alt="Profile Picture" />
+</p>
 
-###
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">👨‍💻 Hey, I'm Moh-leoKing</h1>
+<h3 align="center">⚙️ Software Engineer | 💡 Creator | 🇦🇪 Based in UAE</h3>
 
-<div align="center">
-  <a href="https://www.youtube.com/@Moh-leoKing-n5t" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=I+code+what+I+imagine+🧠;Always+learning+💻;Open+Source+Contributor+🚀" alt="Typing SVG" />
+</p>
+
+---
+
+## 📚 About Me
+
+- 🎯 Focused on creating meaningful, helpful tech  
+- 🧩 Interested in Game Dev (Godot), Python Automation, and UI/UX  
+- 💬 Ask me about Kotlin, Python, C++, Html, Css, Js, or Visual Studio Code, Blender, Godot
+- 🌱 Always curious, always growing  
+- 🧠 Quote I love: _"Code is poetry, but debugging is philosophy."_ 🤓  
+- 🤹‍♂️ **Fun Fact:** I'm fluent in GIFs, Coffee, and Code! 😅 And I still break things on purpose to learn. 🤯
+
+---
+
+## 🛠️ Language & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,python,cpp,html,css,js,vscode,blender,godot" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Moh-leoKing/Calculator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moh-leoKing&repo=Calculator&theme=algolia&border_radius=10" />
   </a>
-  <a href="mohleoking@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://github.com/Moh-leoKing/Moh-leoKing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moh-leoKing&repo=Moh-leoKing&theme=algolia&border_radius=10" />
   </a>
-  <a href=" leo_xKing3@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.youtube.com/@Moh-leoKing-n5t"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://github.com/Moh-leoKing"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:mohleoking@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:leo_xKing3@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+  <a href="https://ko-fi.com/mohleoking"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moh-leoKing&theme=algolia&border_radius=10" alt="GitHub Streak" style="border-radius: 10px;" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Moh-leoKing&show_icons=true&theme=algolia&border_radius=10" alt="GitHub Stats" style="border-radius: 10px;" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moh-leoKing&layout=compact&theme=algolia&border_radius=10" alt="Top Languages" style="border-radius: 10px;" />
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=Moh-leoKing" alt="Profile Views" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies:
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Moh-leoKing&theme=algolia&no-frame=true&row=1&margin-w=15" />
+</p>
+
+---
+
+## ☕ Support My Work
+
+<p align="center">
+  <a href="https://ko-fi.com/mohleoking">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="45" alt="Buy Me a Coffee" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="paypal logo"  />
-  <a href="https://ko-fi.com/mohleoking" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ko-fi logo"  />
-  </a>
-</div>
+</p>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Moh-leoKing.Moh-leoKing&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">Hi 👋, I'm Moh-leoKing<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Moh-leoKing&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moh-leoKing&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Moh-leoKing&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Moh-leoKing/Moh-leoKing/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Moh-leoKing/count.svg?"  />
-</div>
-
-###
+<p align="center"><em>If you like what I do, consider buying me a coffee ☕ 😄</em></p>
