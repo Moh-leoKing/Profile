@@ -1,85 +1,98 @@
-## Hi there 👋,
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-![Profile Picture](https://github.com/Moh-leoKing.png?size=150)
+###
 
-### I'm Moh-leoKing, a Software Engineer based in the United Arab Emirates.
+<div align="center">
+  <a href="https://www.youtube.com/@Moh-leoKing-n5t" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="mohleoking@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href=" leo_xKing3@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="paypal logo"  />
+  <a href="https://ko-fi.com/mohleoking" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ko-fi logo"  />
+  </a>
+</div>
 
--------
+###
 
-## 🧐 About Me
-  
-- 🏃‍♂️ I am an active software engineer with a passion for coding and problem-solving.
-- 🔭 My GitHub profile showcases my ongoing journey of learning and exploring new technologies.
-- 🌱 I am constantly expanding my skill set and exploring different areas of software development.
-- 💡 I believe in the power of collaboration and open-source technologies.
-- 📚 Currently, my programming language of choice is Python, and I enjoy working on projects that could make a positive impact.
-  
----- 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Moh-leoKing.Moh-leoKing&"  />
+</div>
 
-## 💼 Skills
+###
 
-Here are a few technologies and tools I work with:
+<h1 align="center">hey there 👋</h1>
 
-- Kotlin
-- Python
-- HTML/CSS/JavaScript
-- C++
-- Visual Studio Code
-- Godot
-- Blender
+###
 
-----
+<h3 align="left">👩‍💻  About Me</h3>
 
-## ✨ My Projects
+###
 
-While being an active engineer on GitHub, I have worked on a number of projects. Here are a few of my most notable contributions:
+<p align="left">Hi 👋, I'm Moh-leoKing<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
-### [Calculator](https://github.com/Moh-leoKing/Calculator)
+###
 
-![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=Moh-leoKing&repo=Calculator)
+<h3 align="left">🛠 Language and tools</h3>
 
-This repository showcases my skills in Python programming and is a simple calculator built from scratch. Although this project is rather small in itself, it represents my commitment to continuous learning and reflection.
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
 
-### [Moh-leoKing](https://github.com/Moh-leoKing/Moh-leoKing)
+###
 
-![Moh-leoKing](https://github-readme-stats.vercel.app/api/pin/?username=Moh-leoKing&repo=Moh-leoKing)
+<h3 align="left">🔥   My Stats :</h3>
 
-Using my GitHub profile as a personal repository, I document my code snippets, ideas, and various experiments here. This project beautifully represents my journey and evolution as a software engineer.
+###
 
-----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Moh-leoKing&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-## 👥 Let's Connect
+###
 
-I am passionate about the tech community and welcome opportunities to connect, collaborate, and contribute. Please feel free to reach out to me using the following platforms:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Moh-leoKing&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Moh-leoKing&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Moh-leoKing-n5t)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Moh-leoKing)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohleoking@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook)](mailto:leo_xKing3@outlook.com)
-[![Ko-fi](https://img.shields.io/badge/-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/mohleoking)
+###
 
-Feel free to connect and reach out to me for any questions, collaborations, or career opportunities. I am always excited to meet fellow developers, learn new things, and grow with the community!
+<img src="https://raw.githubusercontent.com/Moh-leoKing/Moh-leoKing/output/snake.svg" alt="Snake animation" />
 
-**Apart from coding, my hobbies and interests include reading, playing chess, and building LEGO sets.**
+###
 
------
-## 👑 GitHub Statistics
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Moh-leoKing/count.svg?"  />
+</div>
 
-Here are some stats about my GitHub activity:
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Moh-leoKing)
-
-These statistics reflect my overall activity on GitHub and showcase my commitment to continuous learning and growth.
-
-See my most actively used programming languages:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moh-leoKing)
-
-This visualization represents the languages that I work with the most, highlighting my expertise in Python.
-
-And here is a badge that reflects my contributions:
-
-![Profile views](https://img.shields.io/github/followers/Moh-leoKing.svg?style=social&label=Follow)
-
-If you would like to connect or collaborate, don't hesitate to follow me on GitHub. I welcome contributions, feedback, and discussions with other developers!
+###
