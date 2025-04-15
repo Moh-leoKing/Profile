@@ -15,7 +15,7 @@
 
 - 🎯 Focused on creating meaningful, helpful tech  
 - 🧩 Interested in Game Dev (Godot), Python Automation, and UI/UX  
-- 💬 Ask me about Kotlin, Python, C++, Html, Css, Js, or Visual Studio Code, Blender, Godot
+- 💬 Ask me about `Kotlin`, `Python`, `C++`, `Html`, `Css`, `Js`, or `Visual Studio Code`, `Blender`, `Godot`
 - 🌱 Always curious, always growing  
 - 🧠 Quote I love: _"Code is poetry, but debugging is philosophy."_ 🤓  
 - 🤹‍♂️ **Fun Fact:** I'm fluent in GIFs, Coffee, and Code! 😅 And I still break things on purpose to learn. 🤯
@@ -25,7 +25,7 @@
 ## 🛠️ Language & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,python,cpp,html,css,js,vscode,blender,godot" />
+  <img src="https://skillicons.dev/icons?i=kotlin,python,cpp,androidstudio,godot,blender,github,aftereffects," />
 </p>
 
 ---
