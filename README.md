@@ -1,88 +1,44 @@
+<!-- README Profile for Moh-leoKing -->
+
+<!-- Centered waving hand gif -->
 <p align="center">
-  <img src="https://github.com/Moh-leoKing.png?size=150" width="150" alt="Moh-leoKing Profile Picture" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" alt="waving hand" />
 </p>
 
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">👨‍💻 Hey, I'm Moh-leoKing</h1>
-<h3 align="center">⚙️ Software Engineer | 💡 Creator | 🇦🇪 Based in UAE</h3>
+<!-- Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7C300&center=true&vCenter=true&width=500&lines=Hey+there+👋%2C+I'm+Moh-leoKing!;Software+Engineer+%7C+Game+Dev+%7C+UI%2FUX+Designer" alt="Typing SVG" />
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=I+code+what+I+imagine+🧠;Always+learning+💻;Open+Source+Contributor+🚀" alt="Typing SVG" />
-</p>
+<hr>
 
----
+<!-- About Me -->
+<h2>🧠 About Me</h2>
 
-## 📚 About Me
+```diff
+I'm a passionate Software Engineer based in the UAE 🇦🇪 with a love for:
+- 🎮 Game Development using Godot
+- 🐍 Python Automation
+- 🎨 Clean UI/UX Design
+💡 Dreaming of building impactful software in my home country — Syria 🇸🇾
+🛠 I love blending creativity with code to make beautiful and functional products.
 
-- 🎯 Focused on creating meaningful, helpful tech  
-- 🧩 Interested in Game Dev (Godot), Python Automation, and UI/UX  
-- 💬 Ask me about `Kotlin`, `Python`, `C++`, or `Android Studio`, `Godot`, `Blender`, `GitHub`, `After Effects`
-- 🌱 Always curious, always growing  
-- 🧠 Quote I love: _"Code is poetry, but debugging is philosophy."_ 🤓  
-- 🤹‍♂️ **Fun Fact:** I'm fluent in GIFs, Coffee, and Code! 😅 And I still break things on purpose to learn. 🤯
+<!-- Tech Stack --> <h2>🚀 Tech Stack & Tools</h2> <p align="center"> <img src="https://skillicons.dev/icons?i=python,kotlin,cpp,html,css,js,github,git,vscode,blender,godot" alt="Tech stack icons" /> </p>
+<!-- Featured Projects --> <h2>✨ Featured Projects</h2>
+🎮 Game Prototype Showcase
+A stunning 2D game made in Godot, showcasing dynamic mechanics & pixel visuals.
 
----
+<p align="center"> <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="70%" alt="Game demo gif" /> </p>
+🔗 View on GitHub
 
-## 🛠️ Language & Tools
+🤖 Python Automation Tool
+A tool that automates repetitive tasks using Python to save you time and energy.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,python,cpp,androidstudio,godot,blender,github,aftereffects" />
-</p>
+<p align="center"> <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="70%" alt="Python automation gif" /> </p>
+🔗 View on GitHub
 
----
-
-## 📂 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Moh-leoKing/Calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moh-leoKing&repo=Calculator&theme=algolia&border_radius=10" />
-  </a>
-  <a href="https://github.com/Moh-leoKing/Moh-leoKing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moh-leoKing&repo=Moh-leoKing&theme=algolia&border_radius=10" />
-  </a>
-</p>
-
----
-
-## 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://www.youtube.com/@Moh-leoKing-n5t"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://github.com/Moh-leoKing"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:mohleoking@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="mailto:leo_xKing3@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-  <a href="https://ko-fi.com/mohleoking"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
-</p>
-
----
-
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moh-leoKing&theme=algolia&border_radius=10" alt="GitHub Streak" style="border-radius: 10px;" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Moh-leoKing&show_icons=true&theme=algolia&border_radius=10" alt="GitHub Stats" style="border-radius: 10px;" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moh-leoKing&layout=compact&theme=algolia&border_radius=10" alt="Top Languages" style="border-radius: 10px;" />
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Moh-leoKing" alt="Profile Views" />
-</p>
-
----
-
-## 🏆 GitHub Trophies:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Moh-leoKing&theme=algolia&no-frame=true&row=1&margin-w=15" />
-</p>
-
----
-
-## ☕ Support My Work
-
-<p align="center">
-  <a href="https://ko-fi.com/mohleoking">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="45" alt="Buy Me a Coffee" />
-  </a>
-</p>
-
-<p align="center"><em>If you like what I do, consider buying me a coffee ☕ 😄</em></p>
+<!-- Connect Section --> <h2>🌐 Let's Connect!</h2> <p align="center"> <a href="https://www.youtube.com/@Moh-leoKing" target="_blank"> <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /> </a> <a href="https://ko-fi.com/MohleoKing" target="_blank"> <img src="https://img.shields.io/badge/Buy Me a Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Ko-fi" /> </a> </p>
+<!-- GitHub Stats --> <h2>📊 GitHub Stats</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Moh-leoKing&show_icons=true&theme=radical" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moh-leoKing&layout=compact&theme=radical" width="49%" /> </p>
+<!-- GitHub Trophies --> <h2>🏆 GitHub Trophies</h2> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Moh-leoKing&theme=onestar&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" /> </p>
+<!-- Support --> <h2>☕ Support My Work</h2> <p align="center"> <a href="https://ko-fi.com/MohleoKing" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" /> </a> </p>
+<!-- Footer --> <p align="center" style="font-size: 16px;"> <img src="https://capsule-render.vercel.app/api?type=waving&color=FACC15&height=100&section=footer"/> <br/> <b>Crafted with 💛 by <a href="https://github.com/Moh-leoKing" target="_blank">Moh-leoKing</a></b><br/> <i>“Creating beauty through code, one pixel at a time.”</i> </p> ```
